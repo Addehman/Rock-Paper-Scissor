@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://adams-rock-paper-scissor-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">344922047822</string>
+  <string name="google_storage_bucket" translatable="false">adams-rock-paper-scissor.appspot.com</string>
+  <string name="project_id" translatable="false">adams-rock-paper-scissor</string>
+  <string name="google_api_key" translatable="false">AIzaSyA1qf-co8uY-LUMUMndUd3ouqAgpzxTZd0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1qf-co8uY-LUMUMndUd3ouqAgpzxTZd0</string>
+  <string name="google_app_id" translatable="false">1:344922047822:android:069f011d74162c99b20a1f</string>
+  <string name="default_web_client_id" translatable="false">344922047822-3oesdh8pdfr773862klqmq523i4hci43.apps.googleusercontent.com</string>
+</resources>

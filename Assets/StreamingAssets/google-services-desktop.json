@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344922047822",
+    "firebase_url": "https://adams-rock-paper-scissor-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "adams-rock-paper-scissor",
+    "storage_bucket": "adams-rock-paper-scissor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344922047822:android:069f011d74162c99b20a1f",
+        "android_client_info": {
+          "package_name": "com.Adams.RockPaperScissor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344922047822-3oesdh8pdfr773862klqmq523i4hci43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1qf-co8uY-LUMUMndUd3ouqAgpzxTZd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344922047822-3oesdh8pdfr773862klqmq523i4hci43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
